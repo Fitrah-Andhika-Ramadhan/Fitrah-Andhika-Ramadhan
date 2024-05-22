@@ -1,9 +1,6 @@
 ## Hi there 👋
-
-<!--
-**Fitrah-Andhika-Ramadhan/Fitrah-Andhika-Ramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Fitrah</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fitrah-andhika-ramadhan&show_icons=true&locale=en&layout=compact" alt="fitrah-andhika-ramadhan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fitrah-andhika-ramadhan&show_icons=true&locale=en" alt="fitrah-andhika-ramadhan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitrah-andhika-ramadhan&" alt="fitrah-andhika-ramadhan" /></p>
