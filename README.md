@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working as **IT & Technical Support **
+* 🔭 Currently working as **IT & Technical Support**
 * 🌱 Currently learning **AI Integration, Data Analytics & System Architecture**
 * 💼 Experienced in **Web Development, System Analysis & Technical Support**
 * 🛠️ Working with **Laravel, PHP, Bootstrap, JavaScript & MySQL**
