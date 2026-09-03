@@ -33,7 +33,7 @@
 
 🔗 https://career-rc3id.id/
 
-**Tech Stack:** Laravel • PHP • Bootstrap • JavaScript • MySQL
+**Tech Stack:** Laravel • PHP • Bootstrap • JavaScript • MySQL •AI Integration ATS
 
 ## 📫 Contact
 
