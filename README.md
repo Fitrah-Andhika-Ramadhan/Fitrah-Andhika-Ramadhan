@@ -4,18 +4,41 @@
 
 ---
 
-🔭 I’m currently working as IT & Technical Support RC3ID, supporting and optimizing web systems and technical operations.
-🌱 I’m currently learning AI Integration for Software Development, Data Analytics, and System Architecture.
-👯 I’m looking to collaborate on Web Development, Software Engineering, System Analysis, and IT Support projects.
-🤔 I’m looking for help with building scalable backend systems, system optimization, and integrating AI into development workflows.
-💬 Ask me about Laravel, Bootstrap, JavaScript, MySQL, System Design, and Technical Support.
-🚀 Currently working with Laravel-based web applications and maintaining production systems.
-🌐 Live projects at RC3ID:
-SIGAP TB — https://sigaptb.id/
-RC3ID Career System — https://career-rc3id.id/
-🛠️ Tech Stack: Laravel • PHP • Bootstrap • JavaScript • MySQL • REST API • Git
-😄 Pronouns: He/Him
-⚡ Fun fact: I’m a BNSP-Certified System Analyst who enjoys combining software engineering, system analysis, and AI to build smarter and more efficient systems.
+## 👨‍💻 About Me
+
+* 🔭 Currently working as **IT & Technical Support**
+* 🌱 Currently learning **AI Integration, Data Analytics & System Architecture**
+* 💼 Experienced in **Web Development, System Analysis & Technical Support**
+* 🛠️ Working with **Laravel, PHP, Bootstrap, JavaScript & MySQL**
+* 🚀 Building and maintaining **production-ready web applications**
+* 🤝 Open to collaborate on **Web Development, Software Engineering & System Analysis**
+* 🤔 Interested in **Scalable Backend Systems & AI Integration**
+* 💬 Ask me about **Laravel, JavaScript, MySQL & System Design**
+* 😄 Pronouns: **He/Him**
+* ⚡ Fun fact: **BNSP-Certified System Analyst who loves combining AI with software development**
+
+## 🌐 Live Projects
+
+### 🏥 SIGAP TB
+
+**Tuberculosis Information & Management System**
+
+🔗 https://sigaptb.id/
+
+**Tech Stack:** Laravel • PHP • Bootstrap • JavaScript • MySQL
+
+### 💼 RC3ID Career System
+
+**Career & Recruitment Management System**
+
+🔗 https://career-rc3id.id/
+
+**Tech Stack:** Laravel • PHP • Bootstrap • JavaScript • MySQL
+
+## 📫 Contact
+
+📧 **[fitrahramadhan310@gmail.com](mailto:fitrahramadhan310@gmail.com)**
+
 
 ---
 
