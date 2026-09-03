@@ -4,14 +4,18 @@
 
 ---
 
-- 🔭 I’m currently working on **Rebuilding and Optimizing Web Systems using Laravel and Bootstrap**
-- 🌱 I’m currently learning **AI Integration for Software Development, Data Analytics, and System Architecture**
-- 👯 I’m looking to collaborate on **Web Development, Software Engineering, or System Analysis projects**
-- 🤔 I’m looking for help with **developing scalable backend systems and integrating AI tools into workflow**
-- 💬 Ask me about **Laravel, JavaScript, MySQL, and System Design**
-- 📫 How to reach me: **fitrahramadhan310@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I’m a System Analyst Certified by BNSP and love merging AI with code to make systems smarter**
+🔭 I’m currently working as IT & Technical Support RC3ID, supporting and optimizing web systems and technical operations.
+🌱 I’m currently learning AI Integration for Software Development, Data Analytics, and System Architecture.
+👯 I’m looking to collaborate on Web Development, Software Engineering, System Analysis, and IT Support projects.
+🤔 I’m looking for help with building scalable backend systems, system optimization, and integrating AI into development workflows.
+💬 Ask me about Laravel, Bootstrap, JavaScript, MySQL, System Design, and Technical Support.
+🚀 Currently working with Laravel-based web applications and maintaining production systems.
+🌐 Live projects at RC3ID:
+SIGAP TB — https://sigaptb.id/
+RC3ID Career System — https://career-rc3id.id/
+🛠️ Tech Stack: Laravel • PHP • Bootstrap • JavaScript • MySQL • REST API • Git
+😄 Pronouns: He/Him
+⚡ Fun fact: I’m a BNSP-Certified System Analyst who enjoys combining software engineering, system analysis, and AI to build smarter and more efficient systems.
 
 ---
 
